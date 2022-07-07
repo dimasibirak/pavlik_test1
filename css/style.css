@@ -1,0 +1,234 @@
+
+@font-face {
+    font-family: "Work-Sans"; 
+    src: url("../fonts/Commissioner-VariableFont_wght.ttf"); 
+    font-style: normal; 
+    font-weight: normal; 
+}
+
+@font-face {
+    font-family: "Roboto"; 
+    src: url("../fonts/WorkSans-VariableFont_wght.ttf");
+    font-weight: normal; 
+    font-style: normal; 
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    margin-left: 48px;
+    margin-right: 30px;
+    font-family: "Work-Sans";
+    margin-bottom: 27px;
+}
+
+.center {
+    width: 1152px;
+    margin: 0 auto;
+}
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.learn {
+    margin-left: 62px;
+    margin-right: 62px;
+}
+
+.navig {
+    width: 160px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 48px;
+}
+
+.buttons {
+    margin-right: 50px;
+}
+
+.demo {
+    background-color: #FFD063;
+    border: 1px solid #FFD063;
+    border-radius: 4px;
+    color: #013A4C;
+    padding: 11px 17px 11px 17px;
+    margin-right: 8px;
+}
+
+.log {
+    color: #346170;
+    background: #FFFFFF;
+    border: 1px solid #346170;
+    border-radius: 4px;
+    padding: 11px 17px 11px 17px;
+}
+
+.workWonders {
+    background: url('../img/workWonders.png') no-repeat;
+    height: 850px;
+    padding-top: 290px;
+    background-size: 100%;
+}
+
+.workH1 {
+    font-family: "Roboto";
+    font-size: 62px;
+    color: #013A4C;
+    font-weight: 400;
+    letter-spacing: 2px;
+    margin-bottom: 33px; 
+}
+
+.workP {
+    font-family: "Work-Sans";
+    letter-spacing: 0.5px;
+    color: #013A4C;
+    font-size: 24px;
+    line-height: 32px;
+    width: 491px;
+    margin-bottom: 40px;
+}
+
+.getOneflow {
+    padding: 15px 21px;
+    margin-right: 16px;
+    background: #FFD063;
+    border: 1px solid #FFD063;
+    border-radius: 4px;
+    width: 176px;
+}
+
+.takeTour {
+    padding: 15px 21px;
+    width: 130px;
+    background: #013A4C;
+    border: 1px solid #013A4C;
+    border-radius: 4px;
+}
+
+.sign {
+    background-color: #013A4C;
+}
+
+.join {
+    text-align: center;
+    padding-top: 80px;
+    font-family: "Roboto";
+    color: white;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+.brand {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 80px;
+}
+
+.turn {
+    display: flex;
+}
+
+.turn_textH1 {
+    color:#F2DCE4;
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 72px;
+    width: 402px;
+    line-height: 72px;
+    letter-spacing: 0.4px;
+    margin-bottom: 38px; 
+}
+
+.task {
+    position: relative;
+    top: -100px;
+}
+
+.turn_textP {
+    font-family: "Work-Sans";
+    color: white;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 28px;
+    margin-bottom: 20px;
+}
+
+.takeProduct {
+    padding: 15px 21px;
+    margin-right: 16px;
+    background: #FFD063;
+    border: 1px solid #FFD063;
+    border-radius: 4px;
+    width: 176px;
+    margin-bottom: 160px;
+}
+
+.collaborate {
+    padding-bottom: 128px;
+}
+
+.pressplay {
+    background: #F2DCE4;
+}
+
+.magic {
+    background: url(../img/magic.png) no-repeat;
+    background-size: 100%;
+}
+
+.magicH1 {
+    padding-top: 122px;
+    font-family: "Roboto";
+    font-size: 80px;
+    text-align: center;
+    color: #013A4C;
+    font-weight: 700;
+    margin-bottom: 153px;
+}
+
+.forget_friction {
+    display: flex;
+}
+
+.null {
+    width: 50%;
+}
+
+.oneBlock {
+    width: 50%
+}
+
+.oneBlockH1 {
+    font-family: "Roboto";
+    color: #013A4C;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 54px;
+    letter-spacing: 0.4px;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+
+.oneBlockP {
+    font-family: "Work-Sans";
+    color: #013A4C;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 17px;
+    width: 460px;
+}
+
+.take {
+    padding: 11px 17px;
+    background: #013A4C;
+    border: 1px solid #013A4C;
+    border-radius: 4px;
+    color: white;
+    margin-bottom: 137px;
+}
+
