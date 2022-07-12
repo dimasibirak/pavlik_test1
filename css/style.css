@@ -232,3 +232,100 @@
     margin-bottom: 137px;
 }
 
+.take_control {
+    padding-bottom: 630px;
+}
+
+.tennis {
+    background: url(../img/tennis.png) no-repeat;
+    background-size: 100%;
+}
+
+.believe {
+    padding-bottom: 317px;
+}
+
+.believeH1 {
+    color: #F2DCE4;
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 73px;
+    line-height: 78px;
+    letter-spacing: 2px;
+    padding-top: 295px;
+}
+
+.believeP {
+    font-family: "Work-Sans";    
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+    width: 470px;
+    padding-top: 31px;
+    padding-bottom: 36px;
+}
+
+.demo {
+    background: #FFD063;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #013A4C;
+    font-family: "Work-Sans"; 
+}
+
+.comments {
+    background-color: #FFFFFF;
+}
+
+.commentsH1 {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 54px;
+    letter-spacing: 0.4px;
+    color: #013A4C;
+    padding-top: 127px;
+    margin-bottom: 57px;
+}
+
+.post {
+    width: 375px;
+    height: 446px;
+    border: 1px solid #D6DFE2;
+    border-radius: 8px;
+}  
+
+.text-post {
+    padding: 66px 34px 18px 33px;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #013A4C;
+}
+
+.text-full {
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #89285B;
+    padding: 0px 0px 99px 33px;
+}
+
+.user {
+    display: flex;
+    padding-left: 33px;
+    align-items: center;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #013A4C;
+    padding-bottom: 65px;
+}
